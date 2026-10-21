@@ -1,3 +1,3 @@
 age=18
 if age>=18:
-    print("eligible")
+    print("eligible for voting")
